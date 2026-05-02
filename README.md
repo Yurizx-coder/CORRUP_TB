@@ -1,5 +1,5 @@
 # Tower Defense — Corrupção em Defesa
-![Tela do jogo] (Corrupção TB/67e57c3f-1d05-4aab-9b9c-42548fda1650.png)
+
 Jogo desenvolvido como atividade prática da disciplina de [nome da disciplina].
 
 ## Sobre o jogo
