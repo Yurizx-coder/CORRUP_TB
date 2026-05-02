@@ -11,22 +11,21 @@ O jogador deve posicionar torres para impedir que os inimigos cheguem ao final d
 
 - Use o mouse para posicionar as torres no mapa
 - Cada torre custa dinheiro — gerencie bem seus recursos
-- Inimigos derrotados dão pontos e dinheiro
-- O jogo termina se os inimigos chegarem ao checkpoint com pontuação suficiente
-- Pressione R para reiniciar
+- Inimigos derrotados dão  dinheiro
+- O jogo termina se o número de vidas acabarem 
+
 
 ## Torres disponíveis
 
-- **Presidente** — ataque rápido, dano médio
-- **Deputado** — ataque lento, dano alto
-- **Meme Político** — maior alcance
+- **Lula** — dano básico
+- **Bolsonaro** — dano médio
+- **Daciolo** — rajada de fé, dano alto
 
 ## Inimigos
 
-- **Corrupção** — equilibrado
-- **Fake News** — rápido e fraco
-- **Escândalo** — lento e resistente
-- **Esquema** — chefão das ondas finais
+- **Nota de 2 R$s** — nota mais fraca
+- **Nota de 5 R$** — rápido e  mais fraca
+- **Maleta de dinheiro** — lento e resistente
 
 ## Como executar
 
