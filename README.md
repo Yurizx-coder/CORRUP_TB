@@ -1,5 +1,5 @@
 # Corrupção Tower Defesa
-<img width="1428" height="1102" alt="Image" src="https://github.com/user-attachments/assets/ef4617d7-90b3-4642-a9a0-f1d1d27ce358" />
+<img width="1428" height="1102" alt="Image" src="https://github.com/user-attachments/assets/4aa29aa5-a2ba-448a-92e6-4b2a2f0f248b" />
 
 
 ## Sobre o jogo
