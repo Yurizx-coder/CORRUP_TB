@@ -32,7 +32,7 @@ O jogador deve posicionar torres para impedir que os inimigos cheguem ao final d
 1. Acesse [scratch.mit.edu](https://scratch.mit.edu)
 2. Faça login na sua conta
 3. Clique em **Criar** e depois em **Arquivo > Carregar do computador**
-4. Selecione o arquivo `jogo/Tower_Defense_Game.sb3`
+4. Selecione o arquivo `Corrupção Tower Defense 1.1.sb3`
 5. Clique na bandeira verde para iniciar
 
 ## Tecnologias
