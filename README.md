@@ -34,6 +34,7 @@ O jogador deve posicionar torres para impedir que os inimigos cheguem ao final d
 3. Clique em **Criar** e depois em **Arquivo > Carregar do computador**
 4. Selecione o arquivo `Corrupção Tower Defense 1.1.sb3`
 5. Clique na bandeira verde para iniciar
+6. Ou entre em [scratch.mit.edu](https://scratch.mit.edu/projects/1312063187)
 
 ## Tecnologias
 
