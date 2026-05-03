@@ -40,6 +40,7 @@ O jogador deve posicionar torres para impedir que os inimigos cheguem ao final d
 
 - Scratch (MIT)
 - Lógica de programação visual por blocos
+- Jogo de referência [Youtube](https://youtu.be/emaXCb2pXWY)
 
 ## Autores
 
