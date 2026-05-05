@@ -44,7 +44,7 @@ O jogador deve posicionar torres para impedir que os inimigos cheguem ao final d
 
 ## Autores
 
-- Yuri, Pedro Barcelos, Ryan, Thiago, João Vitor — [github.com/Yurizx-coder](https://github.com/urizx-coder)
+- Yuri, Pedro Barcelos, Ryan, Thiago, João Vitor, Luiz — [github.com/Yurizx-coder](https://github.com/urizx-coder)
 
 ## Instituição
 
