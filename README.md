@@ -111,7 +111,8 @@ CORRUP_TB-main/
 
 ## Autores
 
-- Yuri, Pedro Barcelos, Ryan, Thiago, João Vitor, Luiz — [github.com/Yurizx-coder](https://github.com/Yurizx-coder)
+- Equipe : Yuri Ferreira Chaves, Pedro Barcelos , Thiago Costa, Ryan Charli Soares Barros , Luis Guilherme Campos Moreira , João Vitor
+ — [github.com/Yurizx-coder](https://github.com/Yurizx-coder)
 
 ## Instituição
 
