@@ -8,8 +8,8 @@ Tower defense com tema satírico brasileiro, desenvolvido no Scratch.
 O jogador deve posicionar torres para impedir que os inimigos cheguem ao final do caminho.
 ## Documentação do projeto
 
-- [GDD - Game Design Document](Docs/GDD.md)
-- [SDD - Sound Design Document](Docs/SDD.md)
+- [GDD - Game Design Document](Docs/GDD_SDD.pdf)
+- [SDD - Sound Design Document](Docs/GDD_SDD.pdf)
 
 ## Como jogar
 
