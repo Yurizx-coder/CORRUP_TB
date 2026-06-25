@@ -99,7 +99,7 @@ CORRUP_TB-main/
 1. Acesse [scratch.mit.edu](https://scratch.mit.edu)
 2. Faça login na sua conta
 3. Clique em **Criar** e depois em **Arquivo > Carregar do computador**
-4. Selecione o arquivo `Corrupção Tower Defense 1.1.sb3`
+4. Selecione o arquivo `Corrupção Tower Defense 1.2.sb3`
 5. Clique na bandeira verde para iniciar
 6. Ou entre em [Corrupção Tower Defense](https://scratch.mit.edu/projects/1312063187)
 
