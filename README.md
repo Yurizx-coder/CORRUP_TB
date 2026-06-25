@@ -30,6 +30,69 @@ O jogador deve posicionar torres para impedir que os inimigos cheguem ao final d
 - **Nota de 2 R$s** — nota mais fraca
 - **Nota de 5 R$** — rápido e  mais fraca
 - **Maleta de dinheiro** — lento e resistente
+  
+## Estrutura do projeto
+
+```text
+CORRUP_TB-main/
+├── README.md
+├── Corrupção Tower Defense 1.2.sb3
+├── docs/
+│   ├── GDD_SDD.pdf
+│   └── images/
+├── images/
+│   ├── hud/
+│   │   ├── compra.png
+│   │   ├── Game_over.png
+│   │   ├── Lixeira.png
+│   │   ├── lixeira_2.png
+│   │   ├── melhoria.png
+│   │   ├── melhoria_1.png
+│   │   ├── play.png
+│   │   ├── range.png
+│   │   ├── sprite_eliminação.png
+│   │   ├── tela_inicial.png
+│   │   └── Vida.png
+│   │
+│   ├── Inimigos/
+│   │   ├── Maleta_de_dinheiro.png
+│   │   ├── Nota de 2 Reais.png
+│   │   └── Nota de 5.png
+│   │
+│   ├── Mapa/
+│   │   ├── caminho_mapa.png
+│   │   └── Mapa.png
+│   │
+│   ├── Personagens/
+│   │   ├── base_bolsonaro.png
+│   │   ├── base_daciolo.png
+│   │   ├── base_lula.png
+│   │   ├── Bolsonaro_1.png
+│   │   ├── Bolsonaro_2.png
+│   │   ├── Daciolo.png
+│   │   ├── Daciolo_2.png
+│   │   ├── laser_daciolo.png
+│   │   ├── Lula.png
+│   │   └── Lula_2.png
+│   │
+│   └── Select/
+│       ├── select_Bolsonaro.jpeg
+│       ├── Select_Daciolo.png
+│       └── select_Lula.png
+│
+├── sounds/
+│   ├── AMB/
+│   │   └── background.wav
+│   │
+│   ├── SFX/
+│   │   ├── Bolsonaro-Boladão.wav
+│   │   ├── daciolo.wav
+│   │   └── Lula.wav
+│   │
+│   └── UI/
+│       ├── Gastando_Dinheiro.mp3
+│       └── som_loja.wav
+````
 
 ## Como executar
 
